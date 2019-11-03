@@ -1,0 +1,9 @@
+body {
+               background-color: powderblue;
+               padding: 60px;
+               text-align: left;
+               border: 25px;
+               max-width: 600px;
+               width: 70%;
+               margin: 25px auto;
+    }
